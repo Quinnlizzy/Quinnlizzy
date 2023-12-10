@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quinnlizzy
-- 👀 I’m interested in wrapping my head around as much knowledge as possible
-- 🌱 I’m currently learning ... pretty much everything from the good people at SOC
-- 💞️ I’m looking to collaborate on whatever SOC asks me to
+- 👀 I’m interested in wrapping my head around as much tech knowledge as possible
+- 🌱 I’m currently learning pretty much everything I possibly can from the School of Code and beyond
+- 💞️ I’m looking to collaborate on anything and everything to help grow my skills
 
 
 <!---
